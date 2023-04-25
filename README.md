@@ -1,2 +1,2 @@
 # todo
-classic todo app
+// classic todo app for your productive day
